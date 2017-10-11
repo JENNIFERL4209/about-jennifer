@@ -1,6 +1,7 @@
-My name is Jennifer Liu.
-My email is jenniferl4209@hstat.org
-My school is High School of Telecommunication.
+# Jennifer Liu  
+---
+### _jenniferl4209@hstat.org_
+**High School of Telecommunication**  
 I am a junior this year and I am interested in dancing and playing piano.
 
 My Schedule:
@@ -13,5 +14,3 @@ My Schedule:
 7.APCHEM
 8.Study Hall
 9.Gym
-
-
