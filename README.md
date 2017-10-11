@@ -3,7 +3,8 @@
 ### _jenniferl4209@hstat.org_
 **High School of Telecommunication**  
 
-I am a junior this year and I am interested in dancing and playing piano.
+I am a junior this year and I started playing tennis this year for the school.
+Outside of school, I dance and play piano. I am interested in photography and fashion. Some things I want to accomplish before the year ends are becoming fit and healthy through exercising and practice more for the SATs and my AP courses. 
 
 **_Schedule:_**  
 1. Spanish
