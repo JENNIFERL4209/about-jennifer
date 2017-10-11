@@ -1,8 +1,7 @@
-# Jennifer Liu  
+# Jennifer Liu 
 ---
 ### _jenniferl4209@hstat.org_
-**High School of Telecommunication**  
-
+#### **High School of Telecommunication**  
 I am a junior this year and I started playing tennis this year for the school.
 Outside of school, I dance and play piano.   
 I am interested in photography and math.   
