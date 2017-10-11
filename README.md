@@ -7,6 +7,7 @@ I am a junior this year and I started playing tennis this year for the school.
 Outside of school, I dance and play piano.   
 I am interested in photography and math.   
 
+**_[Here is my link to my software engineering projects portfolio](https://sites.google.com/a/hstat.org/jenniferl4209sep11/)_**
 
 **_Schedule:_**  
 1. Spanish
@@ -26,4 +27,4 @@ I am interested in photography and math.
 * Practice and study
     * Do practice problems for the SATs
     * Review Chemistry and History contents for the AP exams
-    
+
