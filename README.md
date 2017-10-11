@@ -2,15 +2,16 @@
 ---
 ### _jenniferl4209@hstat.org_
 **High School of Telecommunication**  
+
 I am a junior this year and I am interested in dancing and playing piano.
 
-My Schedule:
-1.Spanish
-2.SEP
-3.APUSH
-4.APLAN
-5.LUNCH
-6.Pre-Cal
-7.APCHEM
-8.Study Hall
-9.Gym
+**_Schedule:_**  
+1. Spanish
+2. Software Engineering
+3. AP US History
+4. AP Eng Lang and Comp
+5. Lunch
+6. Pre-calculus
+7. AP Chemistry
+8. Study Hall
+9. Gym
