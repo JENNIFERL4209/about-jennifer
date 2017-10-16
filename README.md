@@ -21,9 +21,10 @@ I am interested in photography and math.
 
 **_Goals:_**
 * Becoming fit
-    * Lose 10 pounds
+    * Lose 10 pounds (Impossible)
     * Exercise on a daily basis
 * Practice and study
     * Do practice problems for the SATs
     * Review Chemistry and History contents for the AP exams
 
+# **_Reviewed by Johnson_**
